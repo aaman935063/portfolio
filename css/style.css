@@ -951,6 +951,7 @@ PORTFOLIO-ITEM-POPUP
 .pp-body .general-info li a {
   text-transform: lowercase;
   color: var(--main-color);
+  word-wrap:break-word;
 }
 
 /*---------------------
@@ -1096,6 +1097,7 @@ Responsive
 
   .contact-info-item {
     padding: 0;
+    width: 100px;
   }
 }
 
